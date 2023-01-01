@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-patshala/static/css/main.7e5119f9.css",
+    "main.js": "/e-patshala/static/js/main.3153d477.js",
+    "static/js/787.28cb0dcd.chunk.js": "/e-patshala/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img2.gif": "/e-patshala/static/media/img2.a265d88abdaf5bf3762a.gif",
+    "static/media/img2.png": "/e-patshala/static/media/img2.cf01bdf35c5ad7bf36e7.png",
+    "index.html": "/e-patshala/index.html",
+    "main.7e5119f9.css.map": "/e-patshala/static/css/main.7e5119f9.css.map",
+    "main.3153d477.js.map": "/e-patshala/static/js/main.3153d477.js.map",
+    "787.28cb0dcd.chunk.js.map": "/e-patshala/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5119f9.css",
+    "static/js/main.3153d477.js"
+  ]
+}
