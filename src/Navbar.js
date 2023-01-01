@@ -62,10 +62,10 @@ function Navbar() {
           </div>
         </div>
       </nav>
-      <img
+      <img className="imgg"
         src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hand-typing-on-key-board-laptop-with-cup-of-coffee-on-wooden-table-1530275820.jpg?crop=0.668xw:1.00xh;0.170xw,0&resize=768:*"
         
-        alt="badimage" style={{width: "100%", height: "auto"}}
+        alt="badimage"
       ></img>
     </>
   );
