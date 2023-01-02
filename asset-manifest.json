@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/e-patshala/static/css/main.153dae4d.css",
-    "main.js": "/e-patshala/static/js/main.a370230d.js",
+    "main.css": "/e-patshala/static/css/main.946e90b6.css",
+    "main.js": "/e-patshala/static/js/main.fa3c65ba.js",
     "static/js/787.28cb0dcd.chunk.js": "/e-patshala/static/js/787.28cb0dcd.chunk.js",
     "static/media/img2.gif": "/e-patshala/static/media/img2.a265d88abdaf5bf3762a.gif",
     "static/media/img2.png": "/e-patshala/static/media/img2.cf01bdf35c5ad7bf36e7.png",
     "index.html": "/e-patshala/index.html",
-    "main.153dae4d.css.map": "/e-patshala/static/css/main.153dae4d.css.map",
-    "main.a370230d.js.map": "/e-patshala/static/js/main.a370230d.js.map",
+    "main.946e90b6.css.map": "/e-patshala/static/css/main.946e90b6.css.map",
+    "main.fa3c65ba.js.map": "/e-patshala/static/js/main.fa3c65ba.js.map",
     "787.28cb0dcd.chunk.js.map": "/e-patshala/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.153dae4d.css",
-    "static/js/main.a370230d.js"
+    "static/css/main.946e90b6.css",
+    "static/js/main.fa3c65ba.js"
   ]
 }
