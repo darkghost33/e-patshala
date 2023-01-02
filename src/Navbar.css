@@ -7,6 +7,11 @@
     color: #ffffff;
 }
 
+.img-icon {
+    width: 30px;
+    height: 30px;
+}
+
 .imgg {
     object-fit: cover;
     width: 100%;
@@ -15,9 +20,34 @@
     text-align: center;
     color: white;
 }
-.card-custom{
+
+.card-custom {
     position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -20%);
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
+
+.card2 {
+    border-style: groove;
+    border-width: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    -webkit-box-shadow: 5px 5px 25px rgba(0,0,0,0.4);
+    -moz-box-shadow: 5px 5px 25px rgba(0,0,0,0.4);
+
+    background-color: rgb(195, 227, 255);
+}
+
+.img3{
+    margin-top: 5%;
+    width: 60%;
+    height: 50%;
+    border-color: #fd7e14;
+    border-radius: 50%;
 }
