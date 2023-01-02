@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/e-patshala/static/css/main.946e90b6.css",
-    "main.js": "/e-patshala/static/js/main.fa3c65ba.js",
+    "main.css": "/e-patshala/static/css/main.3cd10944.css",
+    "main.js": "/e-patshala/static/js/main.a3373886.js",
     "static/js/787.28cb0dcd.chunk.js": "/e-patshala/static/js/787.28cb0dcd.chunk.js",
     "static/media/img2.gif": "/e-patshala/static/media/img2.a265d88abdaf5bf3762a.gif",
     "static/media/img2.png": "/e-patshala/static/media/img2.cf01bdf35c5ad7bf36e7.png",
+    "static/media/home.png": "/e-patshala/static/media/home.e3661217f6e22d8fe4d6.png",
+    "static/media/student.png": "/e-patshala/static/media/student.6c58daa7237e09b6e4d3.png",
+    "static/media/help.png": "/e-patshala/static/media/help.8a99bbe71f44461e2e06.png",
     "index.html": "/e-patshala/index.html",
-    "main.946e90b6.css.map": "/e-patshala/static/css/main.946e90b6.css.map",
-    "main.fa3c65ba.js.map": "/e-patshala/static/js/main.fa3c65ba.js.map",
+    "main.3cd10944.css.map": "/e-patshala/static/css/main.3cd10944.css.map",
+    "main.a3373886.js.map": "/e-patshala/static/js/main.a3373886.js.map",
     "787.28cb0dcd.chunk.js.map": "/e-patshala/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.946e90b6.css",
-    "static/js/main.fa3c65ba.js"
+    "static/css/main.3cd10944.css",
+    "static/js/main.a3373886.js"
   ]
 }
